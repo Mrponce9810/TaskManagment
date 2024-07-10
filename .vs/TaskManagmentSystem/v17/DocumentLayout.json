@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ponce\\source\\repos\\TaskManagmentSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{584134E4-4F5C-4601-9781-122D07FED434}|TaskManagmentSystem\\TaskManagmentSystem.csproj|c:\\users\\ponce\\source\\repos\\taskmanagmentsystem\\taskmanagmentsystem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{584134E4-4F5C-4601-9781-122D07FED434}|TaskManagmentSystem\\TaskManagmentSystem.csproj|solutionrelative:taskmanagmentsystem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{584134E4-4F5C-4601-9781-122D07FED434}|TaskManagmentSystem\\TaskManagmentSystem.csproj|c:\\users\\ponce\\source\\repos\\taskmanagmentsystem\\taskmanagmentsystem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{584134E4-4F5C-4601-9781-122D07FED434}|TaskManagmentSystem\\TaskManagmentSystem.csproj|solutionrelative:taskmanagmentsystem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{584134E4-4F5C-4601-9781-122D07FED434}|TaskManagmentSystem\\TaskManagmentSystem.csproj|c:\\users\\ponce\\source\\repos\\taskmanagmentsystem\\taskmanagmentsystem\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{584134E4-4F5C-4601-9781-122D07FED434}|TaskManagmentSystem\\TaskManagmentSystem.csproj|solutionrelative:taskmanagmentsystem\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{584134E4-4F5C-4601-9781-122D07FED434}|TaskManagmentSystem\\TaskManagmentSystem.csproj|c:\\users\\ponce\\source\\repos\\taskmanagmentsystem\\taskmanagmentsystem\\codigo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{584134E4-4F5C-4601-9781-122D07FED434}|TaskManagmentSystem\\TaskManagmentSystem.csproj|solutionrelative:taskmanagmentsystem\\codigo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{584134E4-4F5C-4601-9781-122D07FED434}|TaskManagmentSystem\\TaskManagmentSystem.csproj|c:\\users\\ponce\\source\\repos\\taskmanagmentsystem\\taskmanagmentsystem\\codigo\\itarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{584134E4-4F5C-4601-9781-122D07FED434}|TaskManagmentSystem\\TaskManagmentSystem.csproj|solutionrelative:taskmanagmentsystem\\codigo\\itarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{584134E4-4F5C-4601-9781-122D07FED434}|TaskManagmentSystem\\TaskManagmentSystem.csproj|c:\\users\\ponce\\source\\repos\\taskmanagmentsystem\\taskmanagmentsystem\\codigo\\tareaconcreta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{584134E4-4F5C-4601-9781-122D07FED434}|TaskManagmentSystem\\TaskManagmentSystem.csproj|solutionrelative:taskmanagmentsystem\\codigo\\tareaconcreta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{584134E4-4F5C-4601-9781-122D07FED434}|TaskManagmentSystem\\TaskManagmentSystem.csproj|c:\\users\\ponce\\source\\repos\\taskmanagmentsystem\\taskmanagmentsystem\\codigo\\iestadotarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{584134E4-4F5C-4601-9781-122D07FED434}|TaskManagmentSystem\\TaskManagmentSystem.csproj|solutionrelative:taskmanagmentsystem\\codigo\\iestadotarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{584134E4-4F5C-4601-9781-122D07FED434}|TaskManagmentSystem\\TaskManagmentSystem.csproj|c:\\users\\ponce\\source\\repos\\taskmanagmentsystem\\taskmanagmentsystem\\codigo\\estadostarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{584134E4-4F5C-4601-9781-122D07FED434}|TaskManagmentSystem\\TaskManagmentSystem.csproj|solutionrelative:taskmanagmentsystem\\codigo\\estadostarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ponce\\source\\repos\\TaskManagmentSystem\\TaskManagmentSystem\\Form1.cs",
+              "RelativeDocumentMoniker": "TaskManagmentSystem\\Form1.cs",
+              "ToolTip": "C:\\Users\\ponce\\source\\repos\\TaskManagmentSystem\\TaskManagmentSystem\\Form1.cs [Design]",
+              "RelativeToolTip": "TaskManagmentSystem\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T03:05:14.905Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ponce\\source\\repos\\TaskManagmentSystem\\TaskManagmentSystem\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "TaskManagmentSystem\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\ponce\\source\\repos\\TaskManagmentSystem\\TaskManagmentSystem\\Form1.Designer.cs",
+              "RelativeToolTip": "TaskManagmentSystem\\Form1.Designer.cs",
+              "ViewState": "AQIAAFsAAAAAAAAAAAAAAIUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T03:24:38.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ponce\\source\\repos\\TaskManagmentSystem\\TaskManagmentSystem\\Codigo\\Program.cs",
+              "RelativeDocumentMoniker": "TaskManagmentSystem\\Codigo\\Program.cs",
+              "ToolTip": "C:\\Users\\ponce\\source\\repos\\TaskManagmentSystem\\TaskManagmentSystem\\Codigo\\Program.cs",
+              "RelativeToolTip": "TaskManagmentSystem\\Codigo\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T03:14:04.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EstadosTarea.cs",
+              "DocumentMoniker": "C:\\Users\\ponce\\source\\repos\\TaskManagmentSystem\\TaskManagmentSystem\\Codigo\\EstadosTarea.cs",
+              "RelativeDocumentMoniker": "TaskManagmentSystem\\Codigo\\EstadosTarea.cs",
+              "ToolTip": "C:\\Users\\ponce\\source\\repos\\TaskManagmentSystem\\TaskManagmentSystem\\Codigo\\EstadosTarea.cs",
+              "RelativeToolTip": "TaskManagmentSystem\\Codigo\\EstadosTarea.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAADoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T03:20:47.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IEstadoTarea.cs",
+              "DocumentMoniker": "C:\\Users\\ponce\\source\\repos\\TaskManagmentSystem\\TaskManagmentSystem\\Codigo\\IEstadoTarea.cs",
+              "RelativeDocumentMoniker": "TaskManagmentSystem\\Codigo\\IEstadoTarea.cs",
+              "ToolTip": "C:\\Users\\ponce\\source\\repos\\TaskManagmentSystem\\TaskManagmentSystem\\Codigo\\IEstadoTarea.cs",
+              "RelativeToolTip": "TaskManagmentSystem\\Codigo\\IEstadoTarea.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T03:20:26.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TareaConcreta.cs",
+              "DocumentMoniker": "C:\\Users\\ponce\\source\\repos\\TaskManagmentSystem\\TaskManagmentSystem\\Codigo\\TareaConcreta.cs",
+              "RelativeDocumentMoniker": "TaskManagmentSystem\\Codigo\\TareaConcreta.cs",
+              "ToolTip": "C:\\Users\\ponce\\source\\repos\\TaskManagmentSystem\\TaskManagmentSystem\\Codigo\\TareaConcreta.cs",
+              "RelativeToolTip": "TaskManagmentSystem\\Codigo\\TareaConcreta.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T03:20:01.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ITarea.cs",
+              "DocumentMoniker": "C:\\Users\\ponce\\source\\repos\\TaskManagmentSystem\\TaskManagmentSystem\\Codigo\\ITarea.cs",
+              "RelativeDocumentMoniker": "TaskManagmentSystem\\Codigo\\ITarea.cs",
+              "ToolTip": "C:\\Users\\ponce\\source\\repos\\TaskManagmentSystem\\TaskManagmentSystem\\Codigo\\ITarea.cs",
+              "RelativeToolTip": "TaskManagmentSystem\\Codigo\\ITarea.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T03:18:57.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\ponce\\source\\repos\\TaskManagmentSystem\\TaskManagmentSystem\\Form1.cs",
+              "RelativeDocumentMoniker": "TaskManagmentSystem\\Form1.cs",
+              "ToolTip": "C:\\Users\\ponce\\source\\repos\\TaskManagmentSystem\\TaskManagmentSystem\\Form1.cs",
+              "RelativeToolTip": "TaskManagmentSystem\\Form1.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAAEkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T02:57:16.265Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

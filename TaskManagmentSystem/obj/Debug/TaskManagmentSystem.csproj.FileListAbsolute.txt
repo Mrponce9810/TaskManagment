@@ -1,0 +1,10 @@
+C:\Users\ponce\source\repos\TaskManagmentSystem\TaskManagmentSystem\bin\Debug\TaskManagmentSystem.exe.config
+C:\Users\ponce\source\repos\TaskManagmentSystem\TaskManagmentSystem\bin\Debug\TaskManagmentSystem.exe
+C:\Users\ponce\source\repos\TaskManagmentSystem\TaskManagmentSystem\bin\Debug\TaskManagmentSystem.pdb
+C:\Users\ponce\source\repos\TaskManagmentSystem\TaskManagmentSystem\obj\Debug\TaskManagmentSystem.csproj.AssemblyReference.cache
+C:\Users\ponce\source\repos\TaskManagmentSystem\TaskManagmentSystem\obj\Debug\TaskManagmentSystem.Form1.resources
+C:\Users\ponce\source\repos\TaskManagmentSystem\TaskManagmentSystem\obj\Debug\TaskManagmentSystem.Properties.Resources.resources
+C:\Users\ponce\source\repos\TaskManagmentSystem\TaskManagmentSystem\obj\Debug\TaskManagmentSystem.csproj.GenerateResource.cache
+C:\Users\ponce\source\repos\TaskManagmentSystem\TaskManagmentSystem\obj\Debug\TaskManagmentSystem.csproj.CoreCompileInputs.cache
+C:\Users\ponce\source\repos\TaskManagmentSystem\TaskManagmentSystem\obj\Debug\TaskManagmentSystem.exe
+C:\Users\ponce\source\repos\TaskManagmentSystem\TaskManagmentSystem\obj\Debug\TaskManagmentSystem.pdb
